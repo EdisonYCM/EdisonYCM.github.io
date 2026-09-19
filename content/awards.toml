@@ -3,25 +3,15 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "First Prize, Tianjin Division"
+subtitle = "China Undergraduate Mathematical Contest in Modeling"
 date = "2025"
-content = "Description of the award."
+content = "Awarded in the 2025 Higher Education Press Cup national undergraduate mathematical modeling competition."
+tags = ["Mathematical Modeling", "Provincial First Prize"]
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Meritorious Winner"
+subtitle = "Mathematical Contest in Modeling (MCM)"
+date = "2025"
+content = "Received the Meritorious Winner designation in the 2025 international Mathematical Contest in Modeling."
+tags = ["Mathematical Modeling", "Meritorious Winner"]

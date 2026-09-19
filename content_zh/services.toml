@@ -1,9 +1,15 @@
 type = "card"
-title = "学术服务"
-description = "专业服务与社区参与。"
+title = "学生工作"
+description = "校内学生工作与服务经历。"
 
 [[items]]
-title = "审稿人"
-subtitle = "某期刊"
-date = "2024"
-content = "参与审阅论文。"
+title = "团委宣传部副部长"
+subtitle = "南开大学计算机学院、密码与网络空间安全学院"
+content = "参与两院团委宣传、沟通及学生活动组织工作。"
+tags = ["学生工作", "宣传"]
+
+[[items]]
+title = "优秀干事"
+subtitle = "南开大学团委课外活动指导中心"
+content = "参与校级课外活动服务，并获评优秀干事。"
+tags = ["校园服务", "课外活动"]

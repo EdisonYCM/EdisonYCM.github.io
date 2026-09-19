@@ -1,0 +1,38 @@
+type = "card"
+title = "Research Experience"
+description = "My research projects in scene text understanding, visual tracking, and visual generation."
+
+[[items]]
+title = "Scene Text Tracking"
+subtitle = "InTime Lab, Nankai University"
+date = "2025.08 - Present"
+content = "To address deformation, blur, and structural-detail loss, proposed **SymTrack**, the first detection-free scene text tracking framework, and built a dedicated benchmark from three video text spotting datasets. Independently completed the implementation, ablations, reproduction of 10+ recent trackers, evaluation, and paper writing. The work achieved state-of-the-art results on all three benchmarks and was accepted by **ICML 2026** as a sole first-author paper. [Paper](https://arxiv.org/abs/2605.17270) · [Code](https://github.com/EdisonYCM/SymTrack)"
+tags = ["Scene Text Tracking", "Visual Tracking", "PyTorch", "ICML 2026"]
+
+[[items]]
+title = "Video Text Editing"
+subtitle = "InTime Lab, Nankai University"
+date = "2026.01 - Present"
+content = "To improve glyph rendering and reduce background distortion, developed the first training-free video text editing framework based on **Wan 2.2**, using frequency-guided glyph injection and mask-trajectory preservation. It outperformed VACE, FlowEdit, and FlowAlign in overall quality. Led the first VTE benchmark spanning real and synthetic data, reproduced leading methods, and independently completed the implementation, ablations, and manuscript. The work is under review at **AAAI 2027**."
+tags = ["Video Editing", "Video Generation", "Diffusion Models", "Wan 2.2"]
+
+[[items]]
+title = "Scene Text Image Super-Resolution"
+subtitle = "InTime Lab, Nankai University"
+date = "2025.12 - 2026.06"
+content = "To mitigate visual hallucinations caused by overreliance on semantic priors, contributed to a hallucination-resistant dual-branch diffusion framework with a three-source evidence gating module for adaptive structural and semantic fusion. The method achieved state-of-the-art results on CTR and Real-CE under ×2 and ×4 settings. Worked on the implementation, ablation studies, and manuscript; the second-author paper was accepted by **ACM Multimedia 2026**."
+tags = ["Image Super-Resolution", "Diffusion Models", "Scene Text", "ACM MM 2026"]
+
+[[items]]
+title = "Document Intelligence"
+subtitle = "CCF Student Pilot Program, Prof. Ming-Ming Cheng's Group"
+date = "2025.09 - 2026.02"
+content = "Studied handwritten formula recognition and table parsing, reproduced recent state-of-the-art models, and independently ported **TAMER (AAAI 2025)** from PyTorch to Jittor with aligned accuracy. Completed the program and passed the final presentation."
+tags = ["Document Intelligence", "Formula Recognition", "Table Parsing", "Jittor"]
+
+[[items]]
+title = "Unified Visual Understanding and Generation"
+subtitle = "Prof. Wenguan Wang's Group, Zhejiang University"
+date = "May 2026 - Present"
+content = "Investigating a unified-representation framework that addresses conflicts between discriminative visual understanding and generative modeling. The framework unifies diverse conditional inputs and outputs so that a single model can perform conditional generation alongside visual tasks such as object detection, semantic segmentation, and depth estimation."
+tags = ["Unified Representation", "Visual Understanding", "Visual Generation", "Multi-task Learning"]

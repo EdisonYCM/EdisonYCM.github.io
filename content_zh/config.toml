@@ -1,19 +1,24 @@
 [site]
-title = "刘嘉乐"
-description = "某某大学博士生个人主页。"
-last_updated = "2025年11月18日"
+title = "余辰民"
+description = "南开大学本科生余辰民的个人主页，研究方向为场景文字理解与视觉生成。"
+last_updated = "2026年09月19日"
 
 [author]
-name = "刘嘉乐"
-title = "博士生"
-institution = "某某大学"
+name = "余辰民"
+title = "本科生"
+institution = "南开大学"
 
 [social]
-location = "城市，国家"
+email = "ycm@mail.nankai.edu.cn"
+location = "天津，中国"
+location_url = "https://maps.google.com/?q=Nankai+University+Jinnan+Campus"
 location_details = [
-  "理科楼 123 室，",
-  "大学路，城市，国家"
+  "计算机学院、密码与网络空间安全学院，",
+  "同砚路 38 号南开大学津南校区，天津，中国"
 ]
+google_scholar = "https://scholar.google.com/citations?user=Syp75CIAAAAJ&hl=zh-CN"
+orcid = "https://orcid.org/0009-0007-6338-1620"
+github = "https://github.com/EdisonYCM"
 
 [[navigation]]
 title = "关于我"
@@ -28,10 +33,10 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "教学"
+title = "科研"
 type = "page"
-target = "teaching"
-href = "/teaching"
+target = "research"
+href = "/research"
 
 [[navigation]]
 title = "奖项"
@@ -40,7 +45,7 @@ target = "awards"
 href = "/awards"
 
 [[navigation]]
-title = "服务"
+title = "学生工作"
 type = "page"
 target = "services"
 href = "/services"

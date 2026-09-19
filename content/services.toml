@@ -1,9 +1,15 @@
 type = "card"
-title = "Services"
-description = "Professional services and community involvement."
+title = "Service"
+description = "Campus leadership and community involvement."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "Deputy Director, Publicity Department"
+subtitle = "Youth League Committee, College of Computer Science and College of Cryptology and Cyber Science, Nankai University"
+content = "Supported publicity, communications, and student activities for the two colleges."
+tags = ["Student Leadership", "Communications"]
+
+[[items]]
+title = "Outstanding Officer"
+subtitle = "Extracurricular Activities Guidance Center, Nankai University Youth League Committee"
+content = "Recognized as an outstanding student officer for contributions to campus extracurricular activities."
+tags = ["Campus Service", "Student Activities"]
