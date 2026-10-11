@@ -49,6 +49,8 @@
 
 ## Awards
 
+- Innovation Scholarship, College of Cryptology and Cyber Science, Nankai University (*2025-2026 academic year*)
+- Community Service Scholarship, College of Cryptology and Cyber Science, Nankai University (*2025-2026 academic year*)
 - First Prize, Tianjin Division, China Undergraduate Mathematical Contest in Modeling (*2025*)
 - Meritorious Winner, Mathematical Contest in Modeling (*2025*)
 

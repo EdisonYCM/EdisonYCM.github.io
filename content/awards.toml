@@ -3,6 +3,20 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
+title = "Innovation Scholarship"
+subtitle = "College of Cryptology and Cyber Science, Nankai University"
+date = "2025-2026"
+content = "Awarded the Innovation Scholarship by the College of Cryptology and Cyber Science for the 2025-2026 academic year."
+tags = ["Scholarship", "Innovation"]
+
+[[items]]
+title = "Community Service Scholarship"
+subtitle = "College of Cryptology and Cyber Science, Nankai University"
+date = "2025-2026"
+content = "Awarded the Community Service Scholarship by the College of Cryptology and Cyber Science for the 2025-2026 academic year."
+tags = ["Scholarship", "Community Service"]
+
+[[items]]
 title = "First Prize, Tianjin Division"
 subtitle = "China Undergraduate Mathematical Contest in Modeling"
 date = "2025"
